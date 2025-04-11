@@ -32,3 +32,5 @@ The game automatically tracks your best performance for each difficulty level in
 MIT
 
 ## Project URLs
+https://roadmap.sh/projects/number-guessing-game
+https://github.com/AhmedHeshamC/numberGuessingGame
