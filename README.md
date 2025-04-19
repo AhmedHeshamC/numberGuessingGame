@@ -28,9 +28,19 @@ The game automatically tracks your best performance for each difficulty level in
 - Fewest attempts taken
 - Fastest time to guess correctly
 
-## License
-MIT
-
 ## Project URLs
 https://roadmap.sh/projects/number-guessing-game
 https://github.com/AhmedHeshamC/numberGuessingGame
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create feature branch
+3. Write tests
+4. Submit a PR
+
+Please adhere to the existing code style and coverage requirements.
+
+---
+
+© 2025 Ahmed Hesham. MIT License.
